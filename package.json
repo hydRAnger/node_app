@@ -1,5 +1,5 @@
 {
-  "name": "node_app",
+  "name": "hydranger_node_app",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "hydranger",
   "license": "ISC",
   "description": ""
 }
